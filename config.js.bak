@@ -23,9 +23,9 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 global.ownername = 'THE JO BOT'
 // Other
-global.owner = ['60177426853','60177426853','60177426853']
-global.premium = ['60177426853']
-global.packname = 'Hisoka Morrow'
+global.owner = ['6281775164514']
+global.premium = ['6281775164514']
+global.packname = 'Hasdi'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = './src/session'

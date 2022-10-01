@@ -21,11 +21,11 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.ownername = 'THE JO BOT'
+global.ownername = 'THE DANIXD'
 // Other
-global.owner = ['6281775164514']
-global.premium = ['6281775164514']
-global.packname = 'Hasdi'
+global.owner = ['6281251549899']
+global.premium = ['6281251549899']
+global.packname = 'Dani'
 global.author = 'WhatsApp Bot'
 global.wlcm = []
 global.sessionName = './src/session'
